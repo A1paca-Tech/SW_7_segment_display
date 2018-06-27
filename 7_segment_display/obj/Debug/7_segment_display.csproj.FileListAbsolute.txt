@@ -1,0 +1,10 @@
+D:\My_Program\Projects\school_work\7_segment_display\7_segment_display\bin\Debug\7_segment_display.exe.config
+D:\My_Program\Projects\school_work\7_segment_display\7_segment_display\bin\Debug\7_segment_display.exe
+D:\My_Program\Projects\school_work\7_segment_display\7_segment_display\bin\Debug\7_segment_display.pdb
+D:\My_Program\Projects\school_work\7_segment_display\7_segment_display\obj\Debug\7_segment_display.csprojAssemblyReference.cache
+D:\My_Program\Projects\school_work\7_segment_display\7_segment_display\obj\Debug\_7_segment_display.Form1.resources
+D:\My_Program\Projects\school_work\7_segment_display\7_segment_display\obj\Debug\_7_segment_display.Properties.Resources.resources
+D:\My_Program\Projects\school_work\7_segment_display\7_segment_display\obj\Debug\7_segment_display.csproj.GenerateResource.cache
+D:\My_Program\Projects\school_work\7_segment_display\7_segment_display\obj\Debug\7_segment_display.csproj.CoreCompileInputs.cache
+D:\My_Program\Projects\school_work\7_segment_display\7_segment_display\obj\Debug\7_segment_display.exe
+D:\My_Program\Projects\school_work\7_segment_display\7_segment_display\obj\Debug\7_segment_display.pdb
